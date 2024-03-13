@@ -1,0 +1,7 @@
+﻿  Main.c
+C:\Users\HTRMC\Documents\Gilde ICT 2023\Periode 3\C++\HTRMC Adventure Game\HTRMC Adventure Game\HTRMC Adventure Game\Main.c(182,18): warning C4013: 'getUserChoice' undefined; assuming extern returning int
+C:\Users\HTRMC\Documents\Gilde ICT 2023\Periode 3\C++\HTRMC Adventure Game\HTRMC Adventure Game\HTRMC Adventure Game\Main.c(237): warning C4716: 'mainMenu': must return a value
+C:\Users\HTRMC\Documents\Gilde ICT 2023\Periode 3\C++\HTRMC Adventure Game\HTRMC Adventure Game\HTRMC Adventure Game\Main.c(275,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HTRMC Adventure Game.vcxproj -> C:\Users\HTRMC\Documents\Gilde ICT 2023\Periode 3\C++\HTRMC Adventure Game\HTRMC Adventure Game\x64\Debug\HTRMC Adventure Game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
